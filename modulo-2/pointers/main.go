@@ -13,10 +13,10 @@ func main() {
 	y := create()
 	println(y, *y)
 	//
-	var z *int // derrefêrencia
-	z = nil
-	take2(z)
-	println(z)
+	// var z *int // derrefêrencia
+	// z = nil
+	// take2(z)
+	// println(z)
 }
 
 func take(x int) { // cópia
