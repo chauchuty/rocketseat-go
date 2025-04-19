@@ -1,0 +1,18 @@
+São Paulo;23
+Rio de Janeiro;30
+Curitiba;17
+São Paulo;25
+Rio de Janeiro;29
+Curitiba;19
+São Paulo;21
+Rio de Janeiro;27
+Curitiba;16
+São Paulo;24
+Rio de Janeiro;31
+Curitiba;18
+Oslo;-5.2
+São Paulo;22
+Rio de Janeiro;26
+Curitiba;20
+São Paulo;20
+Rio de Janeiro;32
