@@ -12,6 +12,7 @@ func main() {
 	const n = 10
 	var wg sync.WaitGroup
 	wg.Add(n)
+
 	for range n {
 		go func() {
 			defer wg.Done()
